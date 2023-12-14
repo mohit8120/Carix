@@ -1,4 +1,4 @@
-# PROJECT CARIX
+# PROJECT CARIX.
 ## Features
 
 - Full featured shopping cart
